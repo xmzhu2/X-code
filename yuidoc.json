@@ -1,0 +1,11 @@
+{
+  "name": "X",
+  "description": "",
+  "version": "0.1",
+  "options": {
+    "paths": [
+      "./public/X/base"
+    ],
+    "outdir": "./api"
+  }
+}
